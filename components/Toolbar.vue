@@ -15,6 +15,7 @@
 <style scoped>
 .title {
   text-decoration: none !important;
+
 }
 .title:visited{
   color: white;
